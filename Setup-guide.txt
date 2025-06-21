@@ -1,0 +1,90 @@
+===============================
+     SUAR SETUP GUIDE 
+===============================
+
+Welcome! This guide will help you set up and run the SUAR (Systematic User Assistant Robot) project on your local machine.
+
+-----------------------------
+STEP-BY-STEP INSTALLATION
+-----------------------------
+
+[1] Install Python
+-------------------
+Download and install Python 3.7 or later from:
+https://www.python.org/downloads/
+
+IMPORTANT: During installation, make sure to check the box:
+"Add Python to PATH"
+
+[2] Clone the Repository
+-------------------------
+If using Git:
+    git clone https://github.com/yourusername/SUAR.git
+    cd SUAR
+
+Or just download and extract the ZIP file from GitHub.
+
+[3] Create and Activate a Virtual Environment
+---------------------------------------------
+
+WINDOWS:
+    python -m venv .venv
+    .venv\Scripts\activate
+
+LINUX/MAC:
+    python3 -m venv .venv
+    source .venv/bin/activate
+
+[4] Install Required Packages
+------------------------------
+    pip install -r requirements.txt
+
+If `pyaudio` gives errors, try this instead:
+    pip install pipwin
+    pipwin install pyaudio
+
+[5] Set Up musicLib.py
+-----------------------
+Create a new file named: musicLib.py
+Add the following content:
+
+    music = {
+        "despacito": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+        "believer": "https://www.youtube.com/watch?v=7wtfhZwyrcc"
+    }
+
+You can add more songs to this dictionary.
+
+[6] Run the Assistant
+----------------------
+Make sure your microphone is working, then run:
+
+    python suar.py
+
+Say "suar" to activate the assistant, then give your voice command.
+
+-----------------------------
+Example Voice Commands
+-----------------------------
+- open google
+- open youtube
+- open github
+- play despacito
+
+-----------------------------
+TIPS
+-----------------------------
+- Use a quiet environment for better speech recognition.
+- You can customize the assistant by editing `suar.py`.
+
+-----------------------------
+To Exit Virtual Environment
+-----------------------------
+    deactivate
+
+-----------------------------
+Need Help?
+-----------------------------
+Open an issue in the GitHub repository or contact the maintainer.
+
+Happy Coding with SUAR!
