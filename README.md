@@ -2,7 +2,6 @@ Sure! Here's a complete `README.md` file for your **SUAR** voice assistant proje
 
 ---
 
-````markdown
 # 🤖🎙️ SUAR: Systematic User Assistant Robot – A Voice-Controlled Python Assistant
 
 SUAR (Systematic User Assistant Robot) is a lightweight and beginner-friendly voice-controlled desktop assistant built in Python 🐍. It responds to the wake word **"suar"**, listens to your commands, and performs tasks like opening websites or playing music. This project is ideal for learning about voice recognition, speech-to-text, and Python automation.
@@ -34,7 +33,7 @@ Make sure you have **Python 3.7+** installed. Then install the required packages
 
 ```bash
 pip install SpeechRecognition pyttsx3 pyaudio
-````
+
 
 > ⚠️ **Note:** If you face issues with `pyaudio` installation on Windows, try:
 >
