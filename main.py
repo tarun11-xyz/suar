@@ -26,6 +26,7 @@ def processCommand(c):
     elif "open instagram" in c.lower():
         speak("Opening instagram")
         webbrowser.open("https://www.instagram.com/t4run_11")
+        #Love from Tarun
     elif c.lower().startswith("play"):
         song = c.lower().split(" ")[1]
         link = musicLib.music[song]
