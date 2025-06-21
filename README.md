@@ -1,7 +1,3 @@
-Absolutely! Here's a clean, copy-paste-ready `README.md` file formatted specifically for GitHub. Just copy and paste the entire content below into your repository's `README.md` file:
-
----
-
 ````markdown
 # 🤖🎙️ SUAR: Systematic User Assistant Robot – A Voice-Controlled Python Assistant
 
@@ -30,7 +26,7 @@ Absolutely! Here's a clean, copy-paste-ready `README.md` file formatted specific
 
 ### 📦 Requirements
 
-Make sure Python 3.7+ is installed. Then, install the dependencies:
+> Make sure Python 3.7+ is installed. Then, install the dependencies:
 
 ```bash
 pip install SpeechRecognition pyttsx3 pyaudio
