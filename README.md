@@ -30,7 +30,7 @@
 
 ```bash
 pip install SpeechRecognition pyttsx3 pyaudio
-````
+```
 
 > ⚠️ If `pyaudio` fails to install on Windows:
 
