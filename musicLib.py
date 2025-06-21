@@ -1,0 +1,22 @@
+music = {
+    "No Love": "https://youtu.be/6RrEQJNZwPQ?si=Hc_v4VRj7Gg7tZn2",
+    "One Love": "https://youtu.be/0pWsCiBvLOk?si=mBPWQvmP9Gvgawes",
+    "Jhol": "https://youtu.be/-2RAq5o5pwc?si=_1TDYlNHAGtKLGFQ",
+    "Excuses": "https://youtu.be/iOxzG3jjFkY?si=4e1MdUr3OPyqOv_r",
+    "295": "https://youtu.be/BLlve1P0-yM?si=yZC82uV2OZczhPhm",
+    "Chaleya": "https://youtu.be/vEjTUDjjU6A?si=GJjT8BO0dI57N2vZ",
+    "Tum Se": "https://youtu.be/1gJ_oM6KhSg?si=KnqRT5lpRXt2EQdY",
+    "Kesariya": "https://youtu.be/BddP6PYo2gs?si=g4veQUcObREaepl2",
+    "Until I Found You": "https://youtu.be/5CclwqZUcXY?si=8kzH0HbdOeP_9cgA",
+    "Heeriye": "https://youtu.be/2jOL1A3iGn4?si=wUXFi99iqbcHK5tD",
+    "Pasoori": "https://youtu.be/5Eqb_-j3FDA?si=QnG3HPVqPfJOn3Tf",
+    "Despacito": "https://youtu.be/kJQP7kiw5Fk?si=9AE_TYUMh9J36I1V",
+    "Believer": "https://youtu.be/7wtfhZwyrcc?si=3Q2Ew8lKw1sB1Ko5",
+    "Shape of You": "https://youtu.be/JGwWNGJdvx8?si=qBWHaC0xjeWxMWDM",
+    "Blinding Lights": "https://youtu.be/4NRXx6U8ABQ?si=wl7BQYZwl3fB4N9y",
+    "Love Nwantiti": "https://youtu.be/FdWbz5B1NDE?si=ApqAVeWmKp94RjHD",
+    "Apna Bana Le": "https://youtu.be/H3wLuPZCE4E?si=63SlzuUSY91U25oq",
+    "Lehanga": "https://youtu.be/P3bETGfI0d8?si=PBopYAGvBGihIVu6",
+    "Zinda Banda": "https://youtu.be/wq5lF0N8lf0?si=YwbtrnU-WjXqnbGC",
+    "Srivalli": "https://youtu.be/BgfcToAjfdc?si=zvQ2xsmZay5Uk8XL"
+}
