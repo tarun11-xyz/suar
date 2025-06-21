@@ -100,7 +100,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💬 Author
 
-Made with ❤️ by \[Your Name]
+Made with ❤️ by \Tarun
 
 ```
 
