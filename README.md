@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # 🤖🎙️ SUAR: Systematic User Assistant Robot – A Voice-Controlled Python Assistant
 
 **SUAR (Systematic User Assistant Robot)** is a lightweight and beginner-friendly voice-controlled desktop assistant built in Python 🐍. It responds to the wake word **"suar"**, listens to your commands, and performs tasks like opening websites or playing music. This project is perfect for learning about voice recognition, speech synthesis, and Python automation.
